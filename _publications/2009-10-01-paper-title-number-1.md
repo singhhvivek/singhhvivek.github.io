@@ -11,4 +11,3 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S00225096220005
 citation: 'Singh, V., & Racherla, V. (2022). Deformation behavior of fluid-filled porous elastomers: Analytical estimates and validation. Journal of the Mechanics and Physics of Solids, 163, 104835..'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

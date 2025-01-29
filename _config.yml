@@ -25,7 +25,7 @@ author:
   name             : "Vivek Singh"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
-  location         : "Earth"
+  location         : "Paris, France"
   employer         : "LMS, Ecole Polytechnique"
   uri              : # URL
   email            : "none@example.org" 
@@ -50,29 +50,29 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
+ # facebook         : # Username
+ # flickr           : # Username
+ # foursquare       : # Username
+ # goodreads        : # Username
+  #google_plus      : # Username
+ # keybase          : # Username
+ # instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+ # mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : # Username for X / Twitter
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
