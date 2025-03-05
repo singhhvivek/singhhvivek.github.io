@@ -39,3 +39,17 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.publication {
+    border-left: 4px solid #0056b3;
+    padding: 10px;
+    margin-bottom: 15px;
+    background: #f8f8f8;
+}
+.publication h3 {
+    color: #0056b3;
+}
+.publication a {
+    color: green;
+    text-decoration: none;
+}
